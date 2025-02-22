@@ -1,4 +1,3 @@
-/*
 const {plugin,WCG} = require("../lib")
 
 inrl({
@@ -12,4 +11,3 @@ inrl({
     const try_to_start = new WCG(message);
     try_to_start.start();
 });
-*/
