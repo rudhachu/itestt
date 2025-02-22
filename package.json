@@ -11,6 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/princerudh/rudhra-bot.git test"
   },
+  "author": "princerudh",
+  "license": "GPL-3.0-or-later",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
