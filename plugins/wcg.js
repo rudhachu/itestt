@@ -1,6 +1,6 @@
 const {plugin,WCG} = require("../lib")
 
-inrl({
+plugin({
     on: "text",
     pattern: "wcg",
     type: "game",
